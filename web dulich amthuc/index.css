@@ -1,0 +1,101 @@
+#header{
+    margin-top: 10px;
+}
+#logo {
+    margin-right: 20px;
+}
+#thu-ngay {
+    margin: 0;
+    margin-right: 20px;
+}
+#ha-noi {
+    margin: 0;
+    margin-right: 200px;
+}
+#moi-nhat {
+    margin: 0;
+    margin-right: 20px;
+}
+#tin-tuc-theo-khu-vuc{
+    margin: 0;
+    margin-right: 20px;
+}
+#international {
+    margin: 0;
+    margin-right: 20px;
+}
+#Danh_sach {
+    position: sticky;
+    background-color: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+    top: 0;
+}
+@media(min-width: 400px){
+    #cha_ca {
+        width: 30px;
+    }
+}
+@media(min-width: 500px){
+    #cha_ca {
+        width: 60px;
+    }
+}
+@media(min-width: 600px){
+    #cha_ca {
+        width: 70px;
+    }
+}
+@media(min-width: 700px){
+    #cha_ca {
+        width: 60px;
+    }
+}
+.menu {
+    color: black; 
+    text-decoration: none;
+    margin-right: 10px;
+}
+.menu:hover {
+    color: red;
+}
+#ngay-thang-chi-tiet {
+    text-align: right;
+}
+#dulich {
+    text-decoration: none;
+}
+#amthuc {
+    text-decoration: none;
+    color: black;
+}
+#bai-lien-quan {
+    border: 1px solid #CCC;
+    padding: 10px;
+}
+.ml-10 {
+    margin-left: 10px;
+}
+.fs-22 {
+    font-size: 22px;
+}
+.ke-hang {
+    border-bottom: 1px solid #CCC;
+}
+.dan-cach-border {
+    margin: 10px 0 10px 0;
+}
+.text-center {
+    text-align: center;
+}
+#duong-line {
+    border-top: 5px solid #636363;
+}
+.ul-footer {
+    list-style: none;
+}
+#footer .ul-footer a {
+    color: #000;
+    text-decoration: none;
+}
+#footer .ul-footer a:hover {
+    text-decoration: underline;
+}
